@@ -1,0 +1,22 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=iotcsaitfcrfeswdcge;AccountKey=n4o1qfibsoEUwdHoaW6ZNbmlawbodlDynqz4/IGR8GFpCEeIyWbfK7kWG97OFWLJ9s4HmGHsgurd+AStc2Ablw==",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=iotcsaitfcrfeswdcge;AccountKey=n4o1qfibsoEUwdHoaW6ZNbmlawbodlDynqz4/IGR8GFpCEeIyWbfK7kWG97OFWLJ9s4HmGHsgurd+AStc2Ablw==",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "ID_SCOPE": "0ne00B04A89",
+    "IOTC_KEY_URL": "https://iotcvltitfcrfeswdcge.vault.azure.net/secrets/iotckey/",
+    "prod-ne-iothub-connect-ahm-teltonika_events_IOTHUB": "Endpoint=sb://iothub-ns-prod-ne-io-25278166-efe0a957a6.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=gONfmHDLBdGwxyZQPnznswpHeWpPp1V6kAIoTBtwh14=;EntityPath=prod-ne-iothub-connect-ah",
+    "prod-ne-iothub-connect-ahm-DSE890_events_IOTHUB": "Endpoint=sb://ihsuproddbres005dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=IC/YaNAoVat7WafZOH/XeE1Ye1qGfWsCeAIoTOhZq7I=;EntityPath=iothub-ehub-prod-ne-io-25377011-61005ea7dc",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=iotcsaitfcrfeswdcge;AccountKey=n4o1qfibsoEUwdHoaW6ZNbmlawbodlDynqz4/IGR8GFpCEeIyWbfK7kWG97OFWLJ9s4HmGHsgurd+AStc2Ablw==",
+    "WEBSITE_CONTENTSHARE": "iotc-fnitfcrfeswdcge",
+    "WEBSITE_HTTPSCALEV2_ENABLED": "0",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~18",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "07923036-ef2f-45aa-a877-6b12768d1166",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=07923036-ef2f-45aa-a877-6b12768d1166;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/",
+    "Token": "Q09OTkVDVDpTdXBwMHJ0UHJAZ21A"
+  },
+  "ConnectionStrings": {}
+}

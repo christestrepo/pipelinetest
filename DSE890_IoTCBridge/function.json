@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "IoTHubMessages",
+      "direction": "in",
+      "eventHubName": "samples-workitems",
+      "connection": "prod-ne-iothub-connect-ahm-DSE890_events_IOTHUB",
+      "cardinality": "one",
+      "consumerGroup": "$Default",
+      "dataType": "string"
+    },
+    {
+      "name": "durClient",
+      "direction": "in",
+      "type": "durableClient"
+    }
+  ]
+}

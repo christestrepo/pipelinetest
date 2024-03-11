@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "IoTHubMessages",
+      "direction": "in",
+      "eventHubName": "samples-workitems",
+      "connection": "prod-ne-iothub-connect-ahm-teltonika_events_IOTHUB",
+      "cardinality": "one",
+      "consumerGroup": "$Default",
+      "dataType": "string"
+    },
+    {
+      "type": "durableClient",
+      "direction": "in",
+      "name": "durClient"
+    }
+  ]
+}
